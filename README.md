@@ -90,6 +90,7 @@ Título | Assunto | Formato | Preço | Idioma
 [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) | Testes | E-book | :moneybag: | Inglês
 [Practical Object Oriented Design in Ruby](http://www.poodr.com/) | Ruby | E-book e Físico | :moneybag: | Inglês
 [Playbook Written by thoughtbot](https://playbook.thoughtbot.com/) | Full-stack | E-book | :free: | Inglês
+[Ruby Metaprogramming](http://howtocode.com.br/ebooks/ruby-metaprogramming?simplesideias) | Ruby | E-book | :free: | Português
 
 [Ir para o índice](#Índice)
 
